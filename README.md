@@ -19,4 +19,10 @@ Problem:
 
 This is classification problem, We need to predict the different groups of documents.
 
-In this different classification algorithms like "Multinomial Naive Bayes","LogisticRegression","Support Vector Classifier".
+In this different classification algorithms are used such as:
+
+*Multinomial Naive Bayes
+
+*LogisticRegression
+
+*Support Vector Classifier".
