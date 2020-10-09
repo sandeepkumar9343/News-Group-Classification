@@ -16,7 +16,6 @@ Data contains of various documents which belongs to various groups such as
 
 
 Problem:
+This is classification problem, We need to predict the different groups of documents.
 
-    This is classification problem, We need to predict the different groups of documents.
-
-    In this different classification algorithms like "Multinomial Naive Bayes","LogisticRegression","Support Vector Classifier".
+In this different classification algorithms like "Multinomial Naive Bayes","LogisticRegression","Support Vector Classifier".
